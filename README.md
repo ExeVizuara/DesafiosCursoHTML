@@ -1,2 +1,2 @@
-# DigitalersJavaBootcampFundamentosWeb
-Fundamentos Web, Etiquetas, Funciones.
+# DesafiosCursoHTML
+Desafíos del Bootcamp Java Developers, programa Digit@lers.
